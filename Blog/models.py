@@ -9,7 +9,7 @@ class Post(models.Model):
     This is the model of the article
     """
     author = models.ForeignKey('auth.User', on_delete=models.CASCADE)  # ForeignKey is linked to another model,
-# auth.User = this is a user field
+# auth.User = this is a user field for Django builtin table for Users
     title = models.CharField(max_length=200)  # Text with limited character
     text = models.TextField()  # Text with Unlimited character
     created_date = models.DateTimeField(default=timezone.now)  # DateTimeField is for date and time
