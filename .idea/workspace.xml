@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5fff97f-1955-4f30-906f-a960d271afc4" name="New changelist" comment="New changelist">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/templates/Blog/post_list.html" afterPath="$PROJECT_DIR$/Blog/templates/Blog/post_list.html" />
-    </list>
+    <list default="true" id="e5fff97f-1955-4f30-906f-a960d271afc4" name="New changelist" comment="New changelist" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adebiodun.com.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="adebiodun.com.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adebiodun.com.txt">
           <provider editor-type-id="csv-data-editor">
             <state>
@@ -98,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Blog/templates/Blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="296">
@@ -598,7 +596,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="814" height="907" extended-state="0" />
+    <frame x="-7" y="0" width="814" height="907" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -736,30 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adebiodun.com.txt">
-      <provider editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Comma-separated (CSV)">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
-                  <quotation>
-                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
-                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
-                  </quotation>
-                </record-format>
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PersonalWebsite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -826,6 +800,30 @@
             <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
             <element signature="e#1362#1368#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adebiodun.com.txt">
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="Comma-separated (CSV)">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
