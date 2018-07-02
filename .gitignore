@@ -2,6 +2,7 @@
 *_
 __pycache__
 DjangoVENV
+db.sqlite3
 /static
 .DS_Store
 adebiodun.com.txt
