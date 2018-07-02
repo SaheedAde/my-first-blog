@@ -21,4 +21,5 @@ urlpatterns = [
 
     # adebiodun.com
     url(r'', include('Blog.urls')),
+
 ]
